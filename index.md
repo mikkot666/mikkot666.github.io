@@ -17,4 +17,4 @@ Tässä on taas ihan perus tekstiä.
 
 <sub>sitten voidaan tehdä tällaista pientä subscript tekstiä</sub>
 
-Tämä sivusto on tehty käyttäen {GitHub Pagesia}(https://pages.github.com) <---- LINKKI!
+Tämä sivusto on tehty käyttäen [GitHub Pagesia](https://pages.github.com/) <---- LINKKI!
